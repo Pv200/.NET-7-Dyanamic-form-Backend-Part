@@ -14,13 +14,13 @@ This project sets up an Express backend using TypeScript and uses a JSON file as
 ## Project Structure
 
 -express-ts-app
-  ├── src
-  │ ├── routes
-  │ │ └── submission.ts
-  │ ├── db.json
-  │ └── index.ts
-  ├── tsconfig.json
-  ├── package.json
-  └── nodemon.json
+- ├── src
+- │ ├── routes
+- │ │ └── submission.ts
+- │ ├── db.json
+- │ └── index.ts
+- ├── tsconfig.json
+- ├── package.json
+- └── nodemon.json
 
   

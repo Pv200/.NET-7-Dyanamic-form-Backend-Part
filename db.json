@@ -1,16 +1,11 @@
-[
-  {
-    "name": "Prakhar verma",
-    "phone": "9410677679",
-    "email": "prakharverma499@gmail.com",
-    "link": "www.example.com",
-    "time": "00:04:48"
-  },
-  {
-    "name": "Prakhar verma",
-    "phone": "9410677679",
-    "email": "prakharverma499@gmail.com",
-    "link": "www.example.com",
-    "time": "00:04:48"
-  }
-]
+{
+  "submissions": [
+    {
+      "name": "Prakhar verma",
+      "phone": "9410677679",
+      "email": "prakharverma499@gmail.com",
+      "link": "www.example.com",
+      "time": "00:04:4887666"
+    }
+  ]
+}
